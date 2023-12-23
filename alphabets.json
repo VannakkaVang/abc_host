@@ -1,0 +1,132 @@
+[
+  {
+    "letter": "A",
+    "image": "A_image.jpg",
+    "name": "Apple"
+  },
+  {
+    "letter": "B",
+    "image": "B_image.jpg",
+    "name": "Banana"
+  },
+  {
+    "letter": "C",
+    "image": "C_image.jpg",
+    "name": "Cat"
+  },
+  {
+    "letter": "D",
+    "image": "D_image.jpg",
+    "name": "Dog"
+  },
+  {
+    "letter": "E",
+    "image": "E_image.jpg",
+    "name": "Elephant"
+  },
+  {
+    "letter": "F",
+    "image": "F_image.jpg",
+    "name": "Fish"
+  },
+  {
+    "letter": "G",
+    "image": "G_image.jpg",
+    "name": "Giraffe"
+  },
+  {
+    "letter": "H",
+    "image": "H_image.jpg",
+    "name": "Horse"
+  },
+  {
+    "letter": "I",
+    "image": "I_image.jpg",
+    "name": "Ice Cream"
+  },
+  {
+    "letter": "J",
+    "image": "J_image.jpg",
+    "name": "Jellyfish"
+  },
+  {
+    "letter": "K",
+    "image": "K_image.jpg",
+    "name": "Kangaroo"
+  },
+  {
+    "letter": "L",
+    "image": "L_image.jpg",
+    "name": "Lion"
+  },
+  {
+    "letter": "M",
+    "image": "M_image.jpg",
+    "name": "Monkey"
+  },
+  {
+    "letter": "N",
+    "image": "N_image.jpg",
+    "name": "Nest"
+  },
+  {
+    "letter": "O",
+    "image": "O_image.jpg",
+    "name": "Orange"
+  },
+  {
+    "letter": "P",
+    "image": "P_image.jpg",
+    "name": "Penguin"
+  },
+  {
+    "letter": "Q",
+    "image": "Q_image.jpg",
+    "name": "Queen"
+  },
+  {
+    "letter": "R",
+    "image": "R_image.jpg",
+    "name": "Rainbow"
+  },
+  {
+    "letter": "S",
+    "image": "S_image.jpg",
+    "name": "Sun"
+  },
+  {
+    "letter": "T",
+    "image": "T_image.jpg",
+    "name": "Tree"
+  },
+  {
+    "letter": "U",
+    "image": "U_image.jpg",
+    "name": "Umbrella"
+  },
+  {
+    "letter": "V",
+    "image": "V_image.jpg",
+    "name": "Violin"
+  },
+  {
+    "letter": "W",
+    "image": "W_image.jpg",
+    "name": "Whale"
+  },
+  {
+    "letter": "X",
+    "image": "X_image.jpg",
+    "name": "Xylophone"
+  },
+  {
+    "letter": "Y",
+    "image": "Y_image.jpg",
+    "name": "Yak"
+  },
+  {
+    "letter": "Z",
+    "image": "Z_image.jpg",
+    "name": "Zebra"
+  }
+]
